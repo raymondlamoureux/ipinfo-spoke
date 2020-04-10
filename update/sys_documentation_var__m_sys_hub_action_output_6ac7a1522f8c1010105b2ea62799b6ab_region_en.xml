@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="region" label="Region" language="en" table="var__m_sys_hub_action_output_6ac7a1522f8c1010105b2ea62799b6ab">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <help/>
+            <hint/>
+            <label>Region</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_6ac7a1522f8c1010105b2ea62799b6ab</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-10 15:21:41</sys_created_on>
+            <sys_id>d0c37d1a2f8c1010105b2ea62799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Region</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_316530_ipinfo_sp">538425562f4c1010105b2ea62799b6ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">538425562f4c1010105b2ea62799b6ba</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_6ac7a1522f8c1010105b2ea62799b6ab_region_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-10 15:21:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
